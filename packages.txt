@@ -1,0 +1,18 @@
+npm i @emotion/react
+npm i @emotion/styled
+npm i @mui/icons-material
+npm i @mui/material
+npm i @mui/lab
+npm i axios
+npm i file-saver
+npm i react-lazy-load-image-component
+npm i react-router-dom
+npm i styled-components
+
+npm i cloudinary
+npm i cors
+npm i dotenv
+npm i express
+npm i mongoose
+npm i nodemon
+npm i openai
